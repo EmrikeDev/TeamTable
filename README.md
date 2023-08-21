@@ -6,7 +6,7 @@
 
 ## Tutorial
 
-### Set data.js
+### 1. Set data.js
 
 This is a example:
 
@@ -27,7 +27,7 @@ This is a example:
 		}
     //You can add more.
 
-### Set HTML
+### 2. Set HTML
 
     <div id="personContainer"></div>
     <script src="./data.js"></script>
