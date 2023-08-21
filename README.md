@@ -24,7 +24,7 @@ This is a example:
 			"name": "杜海皇",
 			"info": "团队元老级成员兼行政部",
 			"face": "e53S1QDw"
-		}
+		}]
     //You can add more.
 
 ### 2. Set HTML
