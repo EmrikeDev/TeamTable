@@ -1,1 +1,1 @@
-# TeamTable - Show your Team on website
+# TeamTable - Show your team on website
